@@ -3,5 +3,6 @@
 Run application
 
 ```sh
+$ npm install
 $ npm run start
 ```
